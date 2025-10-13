@@ -1,6 +1,7 @@
 # Video game prediction project
 This repository contains the code for my Scientific Programming course project at Maastricht University. The project explores data visualization approaches, multivariate outlier detection methods and various machine learning techniques in Python to predict a binary outcome using video game–related data.
 The videogame dataset used can be found here: https://www.opendatabay.com/data/dataset/a992ac4c-6b16-4f3a-a006-ffc758a8e2e2. 
+It is of importance to note that for this school project I got to work with a dirtified version of the original data.
 
 ---
 
