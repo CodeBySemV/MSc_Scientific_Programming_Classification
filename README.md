@@ -7,10 +7,10 @@ It is of importance to note that for this school project I got to work with a di
 
 ## Overview
 The full code is available in the file named; Full_script.ipynb
-There is also an option to run the code in different parts, it is important to run the parts in consecutive order:
-- Part A:
-- Part B:
-- Part C:
+There is also an option to run the code in different parts, it is important to run the parts in consecutive order otherwise it doesnt work:
+- Part A: Libraries, data cleaning and imputation
+- Part B: Multivariate outlier detection
+- Part C: Machine learning
 
 ---
 
