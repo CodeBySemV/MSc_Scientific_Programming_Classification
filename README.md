@@ -6,6 +6,7 @@ It is of importance to note that for this school project I got to work with a di
 ---
 
 ## Overview
+The code is written with python version 3.13 
 The full code is available in the file named; Full_script.ipynb
 There is also an option to run the code in different parts, it is important to run the parts in consecutive order otherwise it doesnt work:
 - Part A: Libraries, data cleaning and imputation
